@@ -1,0 +1,20 @@
+{
+    "Group": "Arc",
+    "Name": "Core",
+    "Version": "1.0.0",
+    "Description": "Core Utilities For Hytale - Arc Plugins.",
+    "Authors": [
+        {
+            "Name": "Arc",
+            "Email": "arclipse@arctale.com",
+            "Url": "https://discord.gg/RHrG2ppRhE"
+        }
+    ],
+    "Website": "https://discord.gg/RHrG2ppRhE",
+    "DisabledByDefault": false,
+    "IncludesAssetPack": true,
+    "Dependencies": {},
+    "OptionalDependencies": {},
+    "ServerVersion": "2026.02.19-1a311a592",
+    "Main": "arc.core.CorePlugin"
+}
